@@ -1,0 +1,13 @@
+{
+	"name": "things-api",
+	"description": "An API that allows accessing your Things tasks from the web.",
+	"authors": [{
+		"name": "Miguel Piedrafita",
+		"email": "soy@miguelpiedrafita.com",
+		"role": "Developer",
+		"homepage": "https://miguelpiedrafita.com"
+	}],
+    "require": {
+        "illuminate/database": "^7.11"
+    }
+}
